@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\obj\Debug\pupitka2GARMUH.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\obj\Debug\pupitka2GARMUH.Form1.resources
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\obj\Debug\pupitka2GARMUH.FundForm.resources
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\obj\Debug\pupitka2GARMUH.Properties.Resources.resources
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\obj\Debug\pupitka2GARMUH.csproj.GenerateResource.cache
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\obj\Debug\pupitka2GARMUH.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\bin\Debug\pupitka2GARMUH.exe.config
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\bin\Debug\pupitka2GARMUH.exe
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\bin\Debug\pupitka2GARMUH.pdb
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\obj\Debug\pupitka2GARMUH.exe
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\obj\Debug\pupitka2GARMUH.pdb
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\obj\Debug\pupitka2GARMUH.exe.config
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\obj\Debug\pupitka2GARMUH.ReadersForm.resources
+C:\Users\1\Desktop\ГАР\pupitka2GARMUH\pupitka2GARMUH\obj\Debug\pupitka2GARMUH.Admin.resources
